@@ -1,0 +1,27 @@
+[
+    {
+        "goodsId": "1",
+        "imageUrl": "static/recommend/images/new/1.jpg",
+        "price": 95,
+        "num": "158万"
+    },
+    {
+        "goodsId": "2",
+        "imageUrl": "static/recommend/images/new/2.jpg",
+        "price": 288,
+        "num": "1.8万"
+    },
+    {
+        "goodsId": "3",
+        "imageUrl": "static/recommend/images/new/3.jpg",
+        "price": 25.9,
+        "num": "2.3万"
+    }
+    ,
+    {
+        "goodsId": "4",
+        "imageUrl": "static/recommend/images/new/4.jpg",
+        "price": 25.9,
+        "num": "2.3万"
+    }
+]

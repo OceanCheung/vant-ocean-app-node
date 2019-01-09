@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "imageUrl":"static/home/images/carousel/1.jpg",
+        "info":""
+    },
+    {
+        "id":"2",
+        "imageUrl":"static/home/images/carousel/2.jpg",
+        "info":""
+    },
+    {
+        "id":"3",
+        "imageUrl":"static/home/images/carousel/3.jpg",
+        "info":""
+    },
+    {
+        "id":"4",
+        "imageUrl":"static/home/images/carousel/4.jpg",
+        "info":""
+    }
+]

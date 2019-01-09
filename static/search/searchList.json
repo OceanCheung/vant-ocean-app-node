@@ -1,0 +1,264 @@
+[
+    {
+        "id": "01",
+        "name": "服饰",
+        "data": [
+            {
+                "id": "1",
+                "name": "女装",
+                "imageUrl": "static/search/images/list/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "夏上新",
+                "imageUrl": "static/search/images/list/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "T桖",
+                "imageUrl": "static/search/images/list/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "女裤",
+                "imageUrl": "static/search/images/list/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "薄外套",
+                "imageUrl": "static/search/images/list/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "衬衫",
+                "imageUrl": "static/search/images/list/6.jpg"
+            },
+            {
+                "id": "7",
+                "name": "裙装",
+                "imageUrl": "static/search/images/list/7.jpg"
+            },
+            {
+                "id": "8",
+                "name": "休闲裤",
+                "imageUrl": "static/search/images/list/8.jpg"
+            },
+            {
+                "id": "9",
+                "name": "套装",
+                "imageUrl": "static/search/images/list/9.jpg"
+            },
+            {
+                "id": "10",
+                "name": "大码女装",
+                "imageUrl": "static/search/images/list/10.jpg"
+            },
+            {
+                "id": "11",
+                "name": "牛仔裤",
+                "imageUrl": "static/search/images/list/11.jpg"
+            },
+            {
+                "id": "12",
+                "name": "针织开衫",
+                "imageUrl": "static/search/images/list/12.jpg"
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "name": "鞋包",
+        "data": [
+            {
+                "id": "1",
+                "name": "女装",
+                "imageUrl": "static/search/images/list/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "夏上新",
+                "imageUrl": "static/search/images/list/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "T桖",
+                "imageUrl": "static/search/images/list/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "女裤",
+                "imageUrl": "static/search/images/list/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "薄外套",
+                "imageUrl": "static/search/images/list/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "衬衫",
+                "imageUrl": "static/search/images/list/6.jpg"
+            },
+            {
+                "id": "7",
+                "name": "裙装",
+                "imageUrl": "static/search/images/list/7.jpg"
+            },
+            {
+                "id": "8",
+                "name": "休闲裤",
+                "imageUrl": "static/search/images/list/8.jpg"
+            },
+            {
+                "id": "9",
+                "name": "套装",
+                "imageUrl": "static/search/images/list/9.jpg"
+            },
+            {
+                "id": "10",
+                "name": "大码女装",
+                "imageUrl": "static/search/images/list/10.jpg"
+            },
+            {
+                "id": "11",
+                "name": "牛仔裤",
+                "imageUrl": "static/search/images/list/11.jpg"
+            },
+            {
+                "id": "12",
+                "name": "针织开衫",
+                "imageUrl": "static/search/images/list/12.jpg"
+            }
+        ]
+    },{
+        "id": "03",
+        "name": "男装",
+        "data": [
+            {
+                "id": "1",
+                "name": "女装",
+                "imageUrl": "static/search/images/list/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "夏上新",
+                "imageUrl": "static/search/images/list/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "T桖",
+                "imageUrl": "static/search/images/list/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "女裤",
+                "imageUrl": "static/search/images/list/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "薄外套",
+                "imageUrl": "static/search/images/list/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "衬衫",
+                "imageUrl": "static/search/images/list/6.jpg"
+            },
+            {
+                "id": "7",
+                "name": "裙装",
+                "imageUrl": "static/search/images/list/7.jpg"
+            },
+            {
+                "id": "8",
+                "name": "休闲裤",
+                "imageUrl": "static/search/images/list/8.jpg"
+            },
+            {
+                "id": "9",
+                "name": "套装",
+                "imageUrl": "static/search/images/list/9.jpg"
+            },
+            {
+                "id": "10",
+                "name": "大码女装",
+                "imageUrl": "static/search/images/list/10.jpg"
+            },
+            {
+                "id": "11",
+                "name": "牛仔裤",
+                "imageUrl": "static/search/images/list/11.jpg"
+            },
+            {
+                "id": "12",
+                "name": "针织开衫",
+                "imageUrl": "static/search/images/list/12.jpg"
+            }
+        ]
+    },{
+        "id": "04",
+        "name": "母婴",
+        "data": [
+            {
+                "id": "1",
+                "name": "女装",
+                "imageUrl": "static/search/images/list/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "夏上新",
+                "imageUrl": "static/search/images/list/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "T桖",
+                "imageUrl": "static/search/images/list/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "女裤",
+                "imageUrl": "static/search/images/list/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "薄外套",
+                "imageUrl": "static/search/images/list/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "衬衫",
+                "imageUrl": "static/search/images/list/6.jpg"
+            },
+            {
+                "id": "7",
+                "name": "裙装",
+                "imageUrl": "static/search/images/list/7.jpg"
+            },
+            {
+                "id": "8",
+                "name": "休闲裤",
+                "imageUrl": "static/search/images/list/8.jpg"
+            },
+            {
+                "id": "9",
+                "name": "套装",
+                "imageUrl": "static/search/images/list/9.jpg"
+            },
+            {
+                "id": "10",
+                "name": "大码女装",
+                "imageUrl": "static/search/images/list/10.jpg"
+            },
+            {
+                "id": "11",
+                "name": "牛仔裤",
+                "imageUrl": "static/search/images/list/11.jpg"
+            },
+            {
+                "id": "12",
+                "name": "针织开衫",
+                "imageUrl": "static/search/images/list/12.jpg"
+            }
+        ]
+    }
+]

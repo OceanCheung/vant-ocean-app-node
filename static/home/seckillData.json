@@ -1,0 +1,20 @@
+[
+    {
+        "goodsId":"1",
+        "imageUrl":"static/home/images/seckill/1.jpg",
+        "price":95,
+        "num":"158万"
+    },
+    {
+        "goodsId":"2",
+        "imageUrl":"static/home/images/seckill/2.jpg",
+        "price":288,
+        "num":"1.8万"
+    },
+    {
+        "goodsId":"3",
+        "imageUrl":"static/home/images/seckill/3.jpg",
+        "price":25.9,
+        "num":"2.3万"
+    }
+]

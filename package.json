@@ -1,0 +1,20 @@
+{
+  "name": "vant-app-ocean-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-static": "^1.2.5",
+    "mysql": "^2.15.0",
+    "request": "^2.87.0"
+  }
+}
